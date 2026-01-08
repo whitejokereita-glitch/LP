@@ -217,4 +217,7 @@ p{ line-height:1.85; color:var(--sub); }
   border:1px solid rgba(79,124,255,.18);
   color: var(--text);
 }
+.mediaCard__img{
+  background: url("./images/hero.jpg") center/cover no-repeat;
+}
 
